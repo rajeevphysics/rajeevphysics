@@ -5,8 +5,6 @@
 - Leading a massive educational project (Math & Matter)
 -  Studying Physics!!!!!!<br>
 
-
-## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:r3persau@uwaterloo.ca) 
 
 # 💻 Tech Stack:
