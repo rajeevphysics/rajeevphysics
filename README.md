@@ -1,4 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&repeat=false&width=435&height=100&lines=Hi%2C+It's+Rajeev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&repeat=false&width=435&height=100&lines=Hi%2C+It's+Rajeev)](https://git.io/typing-svg)
+
+<div align="center">
+
+💡 **Why read my profile when you can explore my world directly?**  
+ Visit my personal website: [**rajeevpersaud.com**](https://rajeevpersaud.com)
+
+</div>
 
 # 💫 About Me:
 - Currently a Student at the University of Waterloo
