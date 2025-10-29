@@ -2,7 +2,7 @@
 
 <div align="center">
 
-💡 **Why read my profile when you can explore my world directly?**  
+💡 **Why read my profile when you can explore my life directly?**  
  Visit my personal website: [**rajeevpersaud.com**](https://rajeevpersaud.com)
 
 </div>
